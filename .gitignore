@@ -50,3 +50,11 @@ ehthumbs.db
 
 # Large Model Checkpoints (optional)
 # models/*.weights.h5
+
+# Microsoft Office Temporary Files
+~$*.docx
+~$*.doc
+*.tmp
+
+# External reference samples
+*.pdf
